@@ -1,0 +1,16 @@
+body {
+  background: lightblue;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background: darkorange;
+  color: white;
+}
